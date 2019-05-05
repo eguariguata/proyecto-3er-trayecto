@@ -1,0 +1,19 @@
+https://www.w3schools.com
+http://lineadecodigo.com/bootstrap/texto-en-negrita-con-bootstrap/
+http://blog.tiching.com/las-10-mejores-frases-sobre-educacion/
+https://www.chiquipedia.com/frases-bonitas/frases-de-educacion-infantil/
+https://www.lifeder.com/frases-maestros/
+http://lineadecodigo.com/bootstrap/texto-en-cursiva-con-bootstrap/
+https://librosweb.es/libro/bootstrap_3/capitulo_5/botones.html
+https://es.godaddy.com/blog/imagen-responsive-en-css3-para-el-fondo-de-tu-web/
+https://www.uv.es/jac/guia/favicon.htm
+http://blog.hostdime.com.co/guia-para-crear-un-sistema-de-inicio-de-sesion-y-registro-usando-php-y-mysql/
+https://desarrolloweb.com/articulos/556.php
+COLOR BOTONES.https://librosweb.es/libro/bootstrap_3/capitulo_5/botones.html
+REDIRECCIONAR: http://www.forosdelweb.com/f4/como-redireccionar-traves-boton-270447/
+REDIRECCIONAR: http://www.forosdelweb.com/f4/boton-que-redireccione-otra-pagina-500611/
+TAMAÑO BOTONES: https://librosweb.es/libro/bootstrap_3/capitulo_5/botones.html
+VIDEO AUTO INCREMANTAL POSTGRES: https://www.youtube.com/watch?v=LcPRP8q1liM
+TUTORIAL SISTEMA INICIO DE SESION: http://blog.hostdime.com.co/guia-para-crear-un-sistema-de-inicio-de-sesion-y-registro-usando-php-y-mysql/
+ICONOS PARA IDENTIFICAR BOTONES Y ACCESOS https://fontawesome.com/icons?d=gallery&q=user
+https://cursoprogramador.wordpress.com/2014/02/19/programando-en-php-un-boton-para-cerrar-sesion/
